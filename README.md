@@ -32,10 +32,4 @@ Vue.js를 기반으로 많은 프로젝트를 진행해왔습니다.<br/>
 
 ---
 
-
-![Hyeonjeong's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hjleee93&show_icons=true&theme=default&hide_border=true)
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hjleee93&layout=compact&theme=default&hide_border=true)
-
-### 🗂 프로젝트나 코드 관련 질문은 언제든 환영입니다!
 </div>
