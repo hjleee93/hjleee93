@@ -1,35 +1,22 @@
 <div align="center">
   
 ![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Hyeonjeong%20Lee&height=150&fontSize=60&desc=Frontend%20Developer&descAlignY=75&descAlign=60)
+### 안녕하세요, 프론트엔드 개발자 이현정입니다 👋
 
-안녕하세요, 사용자 경험과 유지보수 효율을 함께 고려하는 프론트엔드 개발자 이현정입니다.
+멈출 수 없는 운영 서비스를, 멈추지 않고 바꾸는 일을 합니다.
+지금은 게임 아이템 거래 서비스 [아이디팜](https://idfarm.co.kr/)에서  웹 프론트를 맡고 있습니다.
 
-### 💡 About Me
-Vue.js를 기반으로 많은 프로젝트를 진행해왔습니다.<br/>
-다양한 프레임워크, 라이브러리의 사용을 위해 현재 **Next.js**프로젝트를 진행하고 있습니다.<br/>
-재사용 가능한 **공통 컴포넌트 개발**과 **UI 상태 관리**에 강점을 가지고 있습니다.<br/>
- 기획 단계가 명확하지 않은 상황에서도 **요구사항을 분석하고 구조화하는 역량**을 갖추고 있습니다.<br/>
+### Highlights
+- 트래픽 비용이 늘어나는 원인을 전체 페이지 리로드로 짚고, 레거시 MPA를 부분 갱신 구조로 바꿔 Cloudflare 비용 약 50% 절감
+- jQuery → Alpine.js 점진 전환, 핵심 거래 흐름은 Playwright E2E로 회귀 방지
+- Vue 2 → 3 → Nuxt SSR 전환, 이미지 최적화로 첫 화면 1초 단축
+- React 어드민을 Turborepo 모노레포로 구성하고 CLI 초기화 도구 제작
 
----
+### Career
+- 아이디팜컴퍼니 · Frontend Developer (2025.06 ~ 현재)
+- [프롬더레드] · Frontend Developer (2021.2 ~ 2024.02)
 
-### 🛠️ SKILL
+### Links
+[Blog](https://hyeonlogforweb.tistory.com/) · hjleee93@gmail.com
 
-<div>
-  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white">
-  <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <img src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=next.js&logoColor=white">
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white">
-  <img src="https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nuxt.js-00DC82?style=for-the-badge&logo=nuxt.js&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=node.js&logoColor=white">
-  <img src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
----
-
-</div>
+`TypeScript` `Vue/Nuxt` `Next.js` `React` `Alpine.js` `Playwright` `NestJS`
